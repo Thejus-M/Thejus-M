@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Thejus-M
-        I am a super curious young millennials
+ - I am a super curious young millennials
 
 <!---
 Thejus-M/Thejus-M is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
