@@ -42,14 +42,14 @@ Created it in a terminal took SS and then used https://www.screely.com/editor th
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
     </a>
-    <a href="" >
-        <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/fedora.svg" />
+    <a href="https://getfedora.org/" >
+        <img height="40" width="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/128/distributorlogofedora_94082.png" />
     </a>
-    <a href="" >
-        <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/ubuntu.svg" />
+    <a href="https://ubuntu.com/" >
+        <img height="40" width="40" src="https://aegis-icons.github.io/icons/primary/Ubuntu.svg" />
     </a>
-    <a href="" >
-        <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/archlinux.svg" />
+    <a href="https://archlinux.org/" >
+        <img height="40" width="40" src="https://aegis-icons.github.io/icons/primary/Arch%20Linux.svg" />
     </a>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -83,6 +83,9 @@ Created it in a terminal took SS and then used https://www.screely.com/editor th
     </a>
     <a href="https://neovim.io/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" alt="nvim" width="40" height="40"/>
+    </a>
+    <a href="https://neovim.io/" >
+        <img height="40" width="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/128/nvim_94554.png" />
     </a>
     <a href="https://www.arduino.cc/" target="_blank rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
