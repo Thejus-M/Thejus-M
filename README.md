@@ -1,4 +1,4 @@
-# 👋 Hi there
+# 👋 Hi There
 
 ![screely-1660377046201](https://user-images.githubusercontent.com/81758774/184474600-e032786a-bf48-45f7-8979-cba340b1de93.png)
 <!---
