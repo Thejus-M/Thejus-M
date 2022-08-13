@@ -40,7 +40,15 @@ Language:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<!---
-Thejus-M/Thejus-M is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://github-profile-trophy.vercel.app/?username=thejus-m"/>
+
+
+
+<a href="https://github.com/Thejus-M/Thejus-M/issues/new/choose">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+
+<a href="https://in.linkedin.com/in/thejus-m-872276227?trk=people-guest_people_search-card">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
