@@ -46,10 +46,10 @@ Created it in a terminal took SS and then used https://www.screely.com/editor th
         <img height="40" width="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/128/distributorlogofedora_94082.png" />
     </a>
     <a href="https://ubuntu.com/" >
-        <img height="40" width="40" src="https://aegis-icons.github.io/icons/primary/Ubuntu.svg" />
+        <img height="40" width="40" src="https://cdn.icon-icons.com/icons2/195/PNG/128/OS_Ubuntu_23488.png" />
     </a>
     <a href="https://archlinux.org/" >
-        <img height="40" width="40" src="https://aegis-icons.github.io/icons/primary/Arch%20Linux.svg" />
+        <img height="40" width="40" src="https://cdn.icon-icons.com/icons2/1508/PNG/128/distributorlogoarchlinux_103805.png" />
     </a>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -81,7 +81,7 @@ Created it in a terminal took SS and then used https://www.screely.com/editor th
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
     </a>
-    <a href="https://neovim.io/" target="_blank" rel="noreferrer">
+    <a href="https://www.vim.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" alt="nvim" width="40" height="40"/>
     </a>
     <a href="https://neovim.io/" >
