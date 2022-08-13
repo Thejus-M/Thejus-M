@@ -33,7 +33,7 @@ Language:
 
 
 # 
-Tools :
+<!-- Tools : -->
 
 # 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Thejus-M&count_private=true&show_icons=true&theme=radical)](https://github.com/thejus-m/github-readme-stats)
