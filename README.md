@@ -1,8 +1,12 @@
 # 👋 Hi There
 
-![screely-1660377046201](https://user-images.githubusercontent.com/81758774/184474600-e032786a-bf48-45f7-8979-cba340b1de93.png)
+![screely-1661952176643](https://user-images.githubusercontent.com/81758774/187688813-640fcbf7-a7fa-4499-a758-bc0bbdd053f4.png)
+
 
 <!---
+![screely-1660377046201](https://user-images.githubusercontent.com/81758774/184474600-e032786a-bf48-45f7-8979-cba340b1de93.png)
+
+
 
 ❯ you_name="Thejus M Manoj"
 
