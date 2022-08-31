@@ -6,7 +6,7 @@
 
 ❯ you_name="Thejus M Manoj"
 
-❯ describe_youself="'Techie','Super curious','Ambitious','Confident','Tech Geek'"
+❯ describe_youself="\033[0;34m'Techie','Self Learner','Super curious','Ambitious','Confident','Tech Geek'"
 
 ❯ you_skills="\033[0;32m'HTML'\n'CSS'\n'JS'\n'Python'\n\t\033[0;34m'django'\n\t'flask'\033[0;32m\n'bash'\n\t\033[0;34m'bash scripting'\n\t'vim'\n\033[0;32m'Docker'\n'c'\n'c++'\n'Java'\n'SQL'\n'Git'\n'Markdown'\n'XML'\n"
 
