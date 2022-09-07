@@ -96,7 +96,8 @@ Created it in a terminal took SS and then used https://www.screely.com/editor th
     </a>
 </p>
 
-
+---
+![snake gif](https://github.com/thejus-m/thejus-m/blob/output/github-contribution-grid-snake.gif)
 <!-- Tools : -->
 
 #
