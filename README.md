@@ -97,12 +97,12 @@ Created it in a terminal took SS and then used https://www.screely.com/editor th
 </p>
 
 ---
+<!--
 ![snake gif](https://github.com/thejus-m/thejus-m/blob/output/github-contribution-grid-snake.gif)
 
 ![sg](https://github.com/Thejus-M/Thejus-M/blob/output/github-contribution-grid-snake.svg)
 <!-- Tools : -->
 
-#
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Thejus-M&count_private=true&show_icons=true&theme=radical)](https://github.com/thejus-m/github-readme-stats)
 
